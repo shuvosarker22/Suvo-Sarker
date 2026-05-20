@@ -1,0 +1,5 @@
+{
+  "name": "Veo Video Generator",
+  "description": "Generate videos using Veo 3.",
+  "requestFramePermissions": []
+}
